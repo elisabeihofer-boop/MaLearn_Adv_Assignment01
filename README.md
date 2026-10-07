@@ -1,5 +1,7 @@
 # Mutlilingual Tokenization and Language Modeling
 
+My report contains more detailed information on how this experiment was conducted and its results.
+
 ## Part 1: The Tokenizers
 
 - `tokenizers.ipynb`
@@ -19,7 +21,3 @@ Trained three different decoder-only Transformer language models from scratch, o
 - `evaluation.ipynb`
 
 Evaluated each model separately on English, Turkish, and Chinese + investigated vocabulary allocation and how tokenization relates to model behavior
-
-
-
-My report contains more detailed information on how this experiment was conducted and its results.
